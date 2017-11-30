@@ -22,6 +22,6 @@ function iLoveTheBeatles(n){
   do{
       array[i] = "I love the Beatles!"
       i++
-    }while(i <n && n < 15)
+    }while(i <=n && n <= 15)
 return array
 }
