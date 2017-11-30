@@ -17,7 +17,7 @@ function johnLennonFacts(facts){
 }
 //Beatles are just ok
 function iLoveTheBeatles(n){
-  var array = new Array()
+  var array = []
   var i = 0
   do{
       array[i] = "I love the Beatles!"
